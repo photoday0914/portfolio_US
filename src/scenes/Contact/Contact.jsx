@@ -20,9 +20,9 @@ const Resume = () => {
             </p>
             <br />
             <br />
-            <p className={s.smallText} style={{textAlign:"left"}}>PHONE NUMBER : +1 (805) 214-8119</p>
+            <p className={s.smallText} style={{textAlign:"left"}}>PHONE NUMBER : +1 (669) 232-0529</p>
             <br />      
-            <p className={s.smallText} style={{textAlign:"left"}}>EMAIL ID : jameskelly93626@gmail.com</p>
+            <p className={s.smallText} style={{textAlign:"left"}}>EMAIL ID : trevonswain93@gmail.com</p>
             <br />
             <div>
               <p className={s.smallText} style={{textAlign:"left"}}>LOCATION : Remote</p>              
@@ -30,7 +30,7 @@ const Resume = () => {
               <Button
                 style={{ margin: "auto", width: "15rem" }}
                 className="primary"
-                href="https://www.google.com/maps/place/Fort+Pierce,+FL/@27.4294654,-80.3745783,13z/data=!3m1!4b1!4m5!3m4!1s0x88def19fa227b5f1:0xf08617c49b8867ae!8m2!3d27.4467056!4d-80.3256056"
+                href="https://www.google.com/maps/place/223+Carolinian+Dr,+Summerville,+SC+29485,+USA/@32.9414784,-80.2138511,17z/data=!3m1!4b1!4m6!3m5!1s0x88fe8eeb35d17c9d:0xd1a58ba941f8a08f!8m2!3d32.9414784!4d-80.2138511!16s%2Fg%2F11c27vh_mw?entry=ttu"
                 target="_blank"
               >
                 View On Google Maps

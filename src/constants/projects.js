@@ -1,4 +1,5 @@
 import clearscore from "../assets/clearscore.png";
+import sportzag from "../assets/sportzag.png";
 import dogepound from "../assets/dogepound.png";
 import dxdy from "../assets/dxdy.png";
 import fooddelivery from "../assets/fooddelivery.png";
@@ -7,7 +8,23 @@ import tourist from "../assets/tourist.png";
 
 export const PROJECTS = [
   {
+    
     id: "1",
+    title: "Sportzag",
+    description:
+      "SPORTZAG is a free-to-play, non-gambling fan engagement website that does not require a monetary investment to engage in virtual game play.",
+    image: {
+      src: sportzag,
+      placeholderSrc: "There is only one image.",
+    },
+    links: {
+      site: "https://sportzag.com/",
+    },
+    technologies: ["#React", "#Laravel", "#Videa Streaming"],
+    
+  },
+  {
+    id: "2",
     title: "The Doge Pound",
     description:
       "Doge Pound Studios is a gaming studio established by the teams behind The Doge Pound and Deez NFT.",
@@ -19,20 +36,6 @@ export const PROJECTS = [
       site: "https://thedogepoundnft.com/",
     },
     technologies: ["#React", "#Solidity", "#Ether.js"],
-  },
-  {
-    id: "2",
-    title: "DXDY",
-    description:
-      "dYdX (DYDX) is a decentralized exchange platform for crypto currency margin trading for assets like BTC, ETH, SOL, DOT, and more.",
-    image: {
-      src: dxdy,
-      placeholderSrc: "There is only one image.",
-    },
-    links: {
-      site: "https://dydx.exchange/",
-    },
-    technologies: ["#Next.js", "#Redux", "#Solidity", "#Hardhat"],
   },
   {
     id: "3",

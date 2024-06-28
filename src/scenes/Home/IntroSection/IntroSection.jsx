@@ -20,7 +20,7 @@ const IntroSection = () => {
               <i>
                 <b className={s.purple}> Web&Mobile developer </b>
               </i>
-              with 12 years of experience in <br />
+              with 10 years of experience in <br />
             designing, developing, and maintaining web applications. 
             <br />
             Proficient in both front-end and back-end technologies,
@@ -55,7 +55,7 @@ const IntroSection = () => {
         <ul className={s.socialLinks}>
           <li className={s.socialLink}>
             <a
-              href="mailto:jameskelly93626@gmail.com"
+              href="mailto:trevonswain93@gmail.com"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
