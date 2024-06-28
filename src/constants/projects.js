@@ -1,7 +1,7 @@
 import clearscore from "../assets/clearscore.png";
 import sportzag from "../assets/sportzag.png";
 import dogepound from "../assets/dogepound.png";
-import dxdy from "../assets/dxdy.png";
+// import dxdy from "../assets/dxdy.png";
 import fooddelivery from "../assets/fooddelivery.png";
 import mellow from "../assets/mellow.png";
 import tourist from "../assets/tourist.png";
